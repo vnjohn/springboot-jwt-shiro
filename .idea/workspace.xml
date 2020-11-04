@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9973eeba-4087-4c02-8f53-4f75059e4284" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1joRBRS1EbC5QPJ7Ogb9zAPMZZI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IOT\springboot-jwt-shiro\src\main\java\com\demo\util" />
+      <recent name="F:\IOT\springboot-jwt-shiro\src\main\java\com\demo\config" />
+      <recent name="F:\IOT\springboot-jwt-shiro\src\main\java\com\demo\shiro" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.controller" />
+      <recent name="com.demo.util" />
+      <recent name="com.demo.shiro.filter" />
+      <recent name="com.demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IOT\springboot-jwt-shiro\src\main\resources\mapper" />
+      <recent name="F:\IOT\springboot-jwt-shiro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="CodeGenerator.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-jwt-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-jwt-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.CodeGenerator.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9973eeba-4087-4c02-8f53-4f75059e4284" name="Default Changelist" comment="" />
+      <created>1604468321116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604468321116</updated>
+      <workItem from="1604468323953" duration="7487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.1.bottom" timestamp="1604477717549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604477717549" />
+    <state width="1493" height="348" key="GridCell.Tab.1.center" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.1.left" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.1.right" timestamp="1604477717548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604477717548" />
+    <state width="1493" height="348" key="GridCell.Tab.2.bottom" timestamp="1604477717549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604477717549" />
+    <state width="1493" height="348" key="GridCell.Tab.2.center" timestamp="1604477717549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1604477717549" />
+    <state width="1493" height="348" key="GridCell.Tab.2.left" timestamp="1604477717549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1604477717549" />
+    <state width="1493" height="348" key="GridCell.Tab.2.right" timestamp="1604477717549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="348" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1604477717549" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1604478416812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604478416812" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1604477775297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1604477775297" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604477375082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604477375082" />
+  </component>
+</project>
