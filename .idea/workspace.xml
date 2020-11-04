@@ -39,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1joRBRS1EbC5QPJ7Ogb9zAPMZZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -60,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IOT\springboot-jwt-shiro" />
       <recent name="F:\IOT\springboot-jwt-shiro\src\main\java\com\demo\util" />
       <recent name="F:\IOT\springboot-jwt-shiro\src\main\java\com\demo\config" />
       <recent name="F:\IOT\springboot-jwt-shiro\src\main\java\com\demo\shiro" />
@@ -125,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604468321116</updated>
-      <workItem from="1604468323953" duration="7487000" />
+      <workItem from="1604468323953" duration="7833000" />
     </task>
     <servers />
   </component>
